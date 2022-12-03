@@ -14,7 +14,7 @@
     "start": "nodemon ./src/server.js",
     "seed": "node ./scripts/seedDb.js",
     "format": "prettier --write src/**/*.js",
-    "test": "jest ./test/middleware/getProfile.test.js"
+    "test": "jest ./test/middleware/app.test.js"
   },
   "devDependencies": {
     "concurrently": "4.1.0",

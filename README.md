@@ -7,3 +7,4 @@
 5. Implement a dockerfile or docker-compose file stages to run the application in a very light container.
 6. Add husky or some other tool for pre commit hooks.
 7. Implement a jenkinsfile or use github actions for CI/CD.
+8. Migrate to Typescript or use a framework such as Nest.js with Fastify for a more robust application.
